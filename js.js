@@ -1,5 +1,4 @@
 
-console.log("dsdhhh")
 
 
 function fun(){
@@ -34,9 +33,4 @@ function fun(){
         
  }
  
-
- var my=["red",blue,red,black,orange,pink,blue,black,blue]
- var i = Math.random();
- var color="my[i]"
-console.log(color)
  
